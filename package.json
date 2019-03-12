@@ -1,0 +1,14 @@
+{
+  "id": "glip",
+  "name": "Glip",
+  "version": "1.0.0",
+  "description": "Glip Chat",
+  "main": "index.js",
+  "author": "sm4sh",
+  "license": "WTFPL",
+  "config": {
+    "serviceURL": "https://app.glip.com",
+    "hasDirectMessages": true,
+    "hasNotificationSound": true
+  }
+}
